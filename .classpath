@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="BigInt Calculator/src"/>
+	<classpathentry kind="src" path="InFix PosFix Calculator/src"/>
+	<classpathentry kind="output" path="BigInt Calculator/bin"/>
+</classpath>
